@@ -1,3 +1,15 @@
+## **🔍 Visualization of LLM Explanation**
+
+Understanding how **Large Language Models (LLMs)** work is crucial in AI research. This project provides a **visual representation** of **Transformers**, showcasing how attention mechanisms process text. Built using **Streamlit and BERTViz**, it helps users interactively explore the inner workings of LLMs.
+
+### **🚀 Features**
+- **Interactive Transformer Visualization** using BERTViz.
+- **Real-time Attention Weights Analysis**.
+- **User-friendly Interface** with Streamlit.
+- **Custom Inputs Support** to see how different texts are processed.
+
+---
+
 ## **📚 Text Summarization App**  
 
 A **research paper & book summarization app** built with **Streamlit** and **Hugging Face Transformers**. This tool extracts key points from PDFs or manually inputted text, providing concise summaries in a structured format.
@@ -103,4 +115,4 @@ This will open a **web interface** where you can:
 
 ---
 
-🔗 **Want to Contribute?** Feel free to fork the repo and improve the model! 🚀 
+🔗 **Want to Contribute?** Feel free to fork the repo and improve the model! 🚀
